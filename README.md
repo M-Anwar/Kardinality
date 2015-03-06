@@ -1,2 +1,2 @@
 # Kardinality
-A Fun mental game which challenges the a users ability for strategic planning
+A Fun mental game which challenges the users ability for strategic planning
